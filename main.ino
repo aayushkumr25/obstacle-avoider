@@ -71,3 +71,7 @@ void loop() {
    */
 
 }
+void input() {
+  Serial.print(dist);
+  Serial.print("\t");
+}
